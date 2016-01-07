@@ -1,5 +1,5 @@
 # DTR---iOS-Hackathon-Game
- An iOS application built with Raymond Luu and Dylan Sharkey.
+ An iOS application developed by Raymond Luu, Dylan Sharkey, Tim Chen.
 
 #Summary
 This project was made to show off the capabilities of the coreMotion iOS framework, this was the winner of the Coding Dojo iOS coreMotion 2 day Hackathon.
